@@ -47,5 +47,18 @@ Download and prepare the Kaggle Eye Disease Dataset from [https://www.kaggle.com
 
 ## 🏃‍♂️ Training & Evaluation
 Run the training script:
-```bash
 eye_diseases_classification test with EffiTron.ipynb
+
+## 🏆 Results
+| Class                | Precision | Recall | F1-Score | Support |
+| -------------------- | --------- | ------ | -------- | ------- |
+| Cataract             | 0.92      | 0.98   | 0.95     | 208     |
+| Diabetic Retinopathy | 1.00      | 1.00   | 1.00     | 220     |
+| Glaucoma             | 0.93      | 0.94   | 0.94     | 303     |
+| Normal               | 0.96      | 0.89   | 0.92     | 215     |
+| **Overall Accuracy** |           |        | **0.95** | **946** |
+
+## 📊 Visualizations
+1️⃣ Model Performance Over Epochs
+Loss and accuracy curves during training and validation.
+📌 !(.Model Performance Over Epochs/.png)
