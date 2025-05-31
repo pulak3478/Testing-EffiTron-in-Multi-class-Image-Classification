@@ -41,7 +41,7 @@ EffiTron leverages EfficientNet's feature extraction capabilities and the Transf
 - seaborn  
 - numpy  
 ## 📁 Dataset
-Download and prepare the Kaggle Eye Disease Dataset from [Kaggle Link] (replace this with your dataset link).
+Download and prepare the Kaggle Eye Disease Dataset from [https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification]
 
 ---
 
