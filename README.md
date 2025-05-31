@@ -61,5 +61,4 @@ eye_diseases_classification test with EffiTron.ipynb
 ## 📊 Visualizations
 1️⃣ Model Performance Over Epochs
 Loss and accuracy curves during training and validation.
-📌 !(./Model Performance Over Epochs.png)
-📌 ![EffiTron Architecture](./effitorn_diagram.png)
+📌 ![Model Performance Over Epochs](./Model Performance Over Epochs.png)
